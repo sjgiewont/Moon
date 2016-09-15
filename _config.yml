@@ -1,6 +1,6 @@
 # Site
 title:              Steven Giewont
-bio:                'Electrical Engineer, currently studying at Rochester Institute of Technology'
+bio:                'Electrical Engineer, currently studying at Rochester Institute of Technology. Together lets make the world a better place, one innovation at a time.'
 description:        "Personal blog and portfolio covering current and past projects"
 reading_time:       true
 words_per_minute:   200
@@ -39,12 +39,12 @@ disqus_shortname:   taylantatli
 #bing-verify:
 #email:
 #twitter:            username
-facebook:           username
-github:             username
+#facebook:           username
+github:             sjgiewont
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           stevengiewont
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
