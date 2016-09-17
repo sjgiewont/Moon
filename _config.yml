@@ -5,7 +5,7 @@ description:        "Personal blog and portfolio covering current and past proje
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/StevePic.jpg'
-background:         'assets/img/GOPR2271.jpg'
+background:         'assets/img/GOPR2271_edit.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                http://stevengiewont.me/
