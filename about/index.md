@@ -12,6 +12,8 @@ My name is Steven Giewont and I am currently a student at Rochester Insititue of
 
 I'm very passionate about innovation, technology and design. I love a challenge and applying my knowledge of engineering and science to innovate new ideas.
 
+# Co-op Experience
+
 Over the past 5 years I have been very grateful to have the opportunity to intern/co-op with companies across the country! RIT has a 5 year degree due to our co-op program, which requires all engineering students to work for a company for 2 semesters. 
 
 
@@ -35,6 +37,8 @@ During the entirety of my summer, I was also responsible for hosting weekly tech
 My second co-op I took another job at GE Avaition and this time I was positioned at GE headquarters in Cincinnati, OH. Here I was an Electrical Systems Co-op working on flight control units for future GE jet engines. 
 
 My main responsibilites included supporting weekly technical reviews regarding engineering issues. I was also able to help devlop the Desgin Requirements regarding the next generation GE engine. This required heavey research, design specification readings and presentation preparation. 
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/qVVj2ddb-eQ?rel=0" frameborder="0" allowfullscreen></iframe>
 
 During this time, I took it to myself to develop inventory tracking software to help track the status and location of engine control units accross GE. This tool allowed the status of parts to be managed in a single location and shared with engineers. Features included simple search functionality and the ability to generate custom reports. 
 
@@ -60,7 +64,10 @@ My fourth co-op I was able to work for Disney Imagineering as a Ride Controls en
 
 I was able to work on the new ride "Luigi's Rollikin Roadsters"; an autonomous vehicle based ride. For this ride, I was responsible for drafting and updating electrical AutoCAD drawings of the control systems for this ride. I was alo responsible for assisting in debugging and testing the control systems. 
 
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/rwF_1OTcae8?rel=0" frameborder="0" allowfullscreen></iframe>
+
 During this project, I also developed an innovative 3D graphic interface to allow ride operators to quickly and easily identify issues and status of the ride. 
+
 
 ![]({{ site.url }}/assets/img/Favorful_Icon_FB.png)
 
@@ -71,7 +78,7 @@ Personally developed innovative website to allow communities around the world to
 For more information click [here]({{ site.url }}/projects)
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/200px-IBM_logo.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg)
 
 ## IBM - Summer 2016 - Poughkeepsie, NY
 
@@ -79,6 +86,24 @@ For my most recent co-op I worked for IBM as a Hardware Digital Logic Design Int
 
 For my main project, I was responsible for designing and implementing an error injection module in hardware on the memory buffer chip. This faculty was written in VHDL and tested using custom Perl scripts in multiple simulation environments. The faculty was capable of injecting a variety of errors. This is an essential unit that will be used during bringup and test for many future generations of memory buffer chips. 
 
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BIq6N8RB115/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Got to meet this guy Watson today. Almost beat him in a round of Jeopardy #watson #ibm</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Steven Giewont (@stevyg11) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-08-04T02:44:13+00:00">Aug 3, 2016 at 7:44pm PDT</time></p></div></blockquote>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
 I also worked with a small team to develop an application to automate scope probing during bringup and test. I personally developed a new tabular approach to increase the tool felxibility for future projects. 
 
 IBM assigned the hardware interns with a group project to attempt to integrate IBM Sametime messaging with Slack. I personally lead the development of the final solution, assisted in integration across internal teams (Design, Processing, Algorithms) and designed the end user interface. The application was developed in Python and made use of the Slack API. By the end of the summer a fully functional prototpye was able to be developed. 
+
+
+# Hobbies & Fun 
+
+In my little free time I love to spend as much of it outdoors as possible. 
+
+Skiing has been a passion of my since I've been a kid. I grew up skiing the Catskill Mountains in NY. Now I enjoy skiing in Vermont at mountains such as Mt. Snow, Killington, Smugglers Notch and Stowe Mountain.
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/Dswt2NplTns?rel=0" frameborder="0" allowfullscreen></iframe>
+
+
+I also enjoy mountain biking! Below is a quick video from biking in LA. 
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/ckoiR0dbvf4?rel=0" frameborder="0" allowfullscreen></iframe>
+
