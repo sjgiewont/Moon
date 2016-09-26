@@ -14,9 +14,10 @@ I'm very passionate about innovation, technology and design. I love a challenge 
 
 Over the past 5 years I have been very grateful to have the opportunity to intern/co-op with companies across the country! RIT has a 5 year degree due to our co-op program, which requires all engineering students to work for a company for 2 semesters. 
 
-####GE Aviation - Summer 2013 - San Diego, CA
 
 ![](http://edelman.edelman1.netdna-cdn.com/assets/uploads/2012/07/Feature.png)
+
+## GE Aviation - Summer 2013 - San Diego, CA
 
 My first co-op was with GE Aviation the summer after my freshman year at RIT. I was lucky enough to be positioned in beautiful San Diego, CA on Coronado Island working with the US Navy to repair generator units for F/A-18 fighter jets. 
 
@@ -26,10 +27,10 @@ My second main project consisted of developing an innovative software applicatio
 
 During the entirety of my summer, I was also responsible for hosting weekly technical meetings with engineers across the country to solve technical issues regarding generator repair. Overall this was a fantastic first co-op experience! 
  
- 
-####GE Aviation - Summer 2014 - Cincinnati, OH
 
 ![](http://edelman.edelman1.netdna-cdn.com/assets/uploads/2012/07/Feature.png)
+
+## GE Aviation - Summer 2014 - Cincinnati, OH
  
 My second co-op I took another job at GE Avaition and this time I was positioned at GE headquarters in Cincinnati, OH. Here I was an Electrical Systems Co-op working on flight control units for future GE jet engines. 
 
@@ -38,9 +39,9 @@ My main responsibilites included supporting weekly technical reviews regarding e
 During this time, I took it to myself to develop inventory tracking software to help track the status and location of engine control units accross GE. This tool allowed the status of parts to be managed in a single location and shared with engineers. Features included simple search functionality and the ability to generate custom reports. 
 
 
-####Universal Instruments - Fall 2014 - Binghamton, NY
-
 ![](http://www.sincotron.eu/tmp/news_75.jpg)
+
+## Universal Instruments - Fall 2014 - Binghamton, NY
 
 My third co-op I took a semester off to work at Universal Instruments as an Electrical Engineer co-op. This was one of my most unique co-ops due to the variety of work I was able to work on. 
 
@@ -51,9 +52,9 @@ My second main project consisted of designing a PCB board used for I/O testing. 
 Other tasks and projects consisted of debugging issues on an FPGA using JTAG and anayzing VHDL code. I also worked with a team of engineers to develop new I/O interface board by participating in system level design, componenet selection and testing. I was also able to complete custom PSPICE simulations to verify mixed signal circuit functionality. 
 
 
-####Disney Imagineering - Summer 2015 - Glendale, CA
-
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Walt_Disney_Imagineering_Logo.svg/1280px-Walt_Disney_Imagineering_Logo.svg.png)
+
+## Disney Imagineering - Summer 2015 - Glendale, CA
 
 My fourth co-op I was able to work for Disney Imagineering as a Ride Controls engineer. During this I was privelaged to work in their headquarters in Glendale, CA half the summer and on a project in California Adventure Park in Anaheim, CA the second half of the summer. 
 
@@ -61,17 +62,18 @@ I was able to work on the new ride "Luigi's Rollikin Roadsters"; an autonomous v
 
 During this project, I also developed an innovative 3D graphic interface to allow ride operators to quickly and easily identify issues and status of the ride. 
 
+![]({{ site.url }}/assets/img/Favorful_Icon_FB.png)
 
-####favorful.org - Spring 2016 - [favorful.org](http://favorful.org){:target="_blank"}
+## favorful.org - Spring 2016 - [favorful.org](http://favorful.org){:target="_blank"}
 
 Personally developed innovative website to allow communities around the world to connect ask for help in the form of "favors" from each other. Finalist in the annual NYS Business Plan Competition. 
 
 For more information click [here]({{ site.url }}/projects)
 
 
-####IBM - Summer 2016 - Poughkeepsie, NY
-
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/200px-IBM_logo.svg.png)
+
+## IBM - Summer 2016 - Poughkeepsie, NY
 
 For my most recent co-op I worked for IBM as a Hardware Digital Logic Design Intern for the ASIC memory buffer team. The memory buffer chip is a key component in IBM's Z and P Systems. 
 
