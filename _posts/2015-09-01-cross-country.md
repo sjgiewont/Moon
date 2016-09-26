@@ -6,7 +6,7 @@ excerpt: "Being able to drive across the country is an amazing experience.."
 tag:
 - road trip 
 - Disney
-comments: true
+comments: false
 ---
 
 ## Cross Country Trip - Summer 2015
