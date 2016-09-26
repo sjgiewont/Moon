@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cross Country Trip"
-date:   2016-03-15
+date:   2015-09-01
 excerpt: "Being able to drive across the country is an amazing experience.."
 tag:
 - road trip 
