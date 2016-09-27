@@ -8,7 +8,7 @@ comments: false
     
 ![]({{ site.url }}/assets/img/StevePicSmall.jpg)
 
-My name is Steven Giewont and I am currently a student at Rochester Insititue of Technology studying for a BS/MS in electrical engineering. Expecting graduation May 2017!
+My name is Steven Giewont and I am currently a student at Rochester Institute of Technology studying for a BS/MS in electrical engineering. Expecting graduation May 2017!
 
 I'm very passionate about innovation, technology and design. I love a challenge and applying my knowledge of engineering and science to innovate new ideas.
 
@@ -23,7 +23,7 @@ Over the past 5 years I have been very grateful to have the opportunity to inter
 
 My first co-op was with GE Aviation the summer after my freshman year at RIT. I was lucky enough to be positioned in beautiful San Diego, CA on Coronado Island working with the US Navy to repair generator units for F/A-18 fighter jets. 
 
-One of my first projects consisted of devloping and implementing a "Two-Bin" system to streamline distribution of necessary resources needed for generator repair. This task forced me to quickly learn the entire repair process and apply Lean Six Sigma techniques to streamline the proces. The result was a new system that allowed a constant supply of high demand parts to the repair line. This resulted in increase throughput and time savings. 
+One of my first projects consisted of developing and implementing a "Two-Bin" system to streamline distribution of necessary resources needed for generator repair. This task forced me to quickly learn the entire repair process and apply Lean Six Sigma techniques to streamline the process. The result was a new system that allowed a constant supply of high demand parts to the repair line. This resulted in increase throughput and time savings. 
 
 My second main project consisted of developing an innovative software application to automate input of data into an Oracle Database. Here I was able to develop Visual Basic skills to create an application optimally designed for the end user. The result was a tool that was easy to use, reduced task time up to 93% (16 minute --> 1 minute) and limited data entry errors. 
 
@@ -34,13 +34,13 @@ During the entirety of my summer, I was also responsible for hosting weekly tech
 
 ## GE Aviation - Summer 2014 - Cincinnati, OH
  
-My second co-op I took another job at GE Avaition and this time I was positioned at GE headquarters in Cincinnati, OH. Here I was an Electrical Systems Co-op working on flight control units for future GE jet engines. 
+My second co-op I took another job at GE Aviation and this time I was positioned at GE headquarters in Cincinnati, OH. Here I was an Electrical Systems Co-op working on flight control units for future GE jet engines. 
 
-My main responsibilites included supporting weekly technical reviews regarding engineering issues. I was also able to help devlop the Desgin Requirements regarding the next generation GE engine. This required heavey research, design specification readings and presentation preparation. 
+My main responsibilities included supporting weekly technical reviews regarding engineering issues. I was also able to help develop the Design Requirements regarding the next generation GE engine. This required heavy research, design specification readings and presentation preparation. 
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/qVVj2ddb-eQ?rel=0" frameborder="0" allowfullscreen></iframe>
 
-During this time, I took it to myself to develop inventory tracking software to help track the status and location of engine control units accross GE. This tool allowed the status of parts to be managed in a single location and shared with engineers. Features included simple search functionality and the ability to generate custom reports. 
+During this time, I took it to myself to develop inventory tracking software to help track the status and location of engine control units across GE. This tool allowed the status of parts to be managed in a single location and shared with engineers. Features included simple search functionality and the ability to generate custom reports. 
 
 
 ![](http://www.sincotron.eu/tmp/news_75.jpg)
@@ -49,20 +49,20 @@ During this time, I took it to myself to develop inventory tracking software to 
 
 My third co-op I took a semester off to work at Universal Instruments as an Electrical Engineer co-op. This was one of my most unique co-ops due to the variety of work I was able to work on. 
 
-My most exciting project was research and analysis of variable reluctance motors. I was able to design new motor heads and perform finite element analysis to simulate expected torque and power consumption. This work resulted in a company invention disclosure and patent pending technique to minimize the effect of torque ripple. Using past skills in Visual Basic, I was able to develop scripts to automate the simulations, calculations and video renderings. Working with Simulink, I was able to simulate variable relutance motor controllers to capture their functionality and limits. 
+My most exciting project was research and analysis of variable reluctance motors. I was able to design new motor heads and perform finite element analysis to simulate expected torque and power consumption. This work resulted in a company invention disclosure and patent pending technique to minimize the effect of torque ripple. Using past skills in Visual Basic, I was able to develop scripts to automate the simulations, calculations and video renderings. Working with Simulink, I was able to simulate variable reluctance motor controllers to capture their functionality and limits. 
 
 My second main project consisted of designing a PCB board used for I/O testing. This was a rewarding experience as my design was able to be printed, assembled and successfully tested during my block. 
 
-Other tasks and projects consisted of debugging issues on an FPGA using JTAG and anayzing VHDL code. I also worked with a team of engineers to develop new I/O interface board by participating in system level design, componenet selection and testing. I was also able to complete custom PSPICE simulations to verify mixed signal circuit functionality. 
+Other tasks and projects consisted of debugging issues on an FPGA using JTAG and analyzing VHDL code. I also worked with a team of engineers to develop new I/O interface board by participating in system level design, component selection and testing. I was also able to complete custom PSPICE simulations to verify mixed signal circuit functionality. 
 
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Walt_Disney_Imagineering_Logo.svg/1280px-Walt_Disney_Imagineering_Logo.svg.png)
 
 ## Disney Imagineering - Summer 2015 - Glendale, CA
 
-My fourth co-op I was able to work for Disney Imagineering as a Ride Controls engineer. During this I was privelaged to work in their headquarters in Glendale, CA half the summer and on a project in California Adventure Park in Anaheim, CA the second half of the summer. 
+My fourth co-op I was able to work for Disney Imagineering as a Ride Controls engineer. During this I was privileged to work in their headquarters in Glendale, CA half the summer and on a project in California Adventure Park in Anaheim, CA the second half of the summer. 
 
-I was able to work on the new ride "Luigi's Rollikin Roadsters"; an autonomous vehicle based ride. For this ride, I was responsible for drafting and updating electrical AutoCAD drawings of the control systems for this ride. I was alo responsible for assisting in debugging and testing the control systems. 
+I was able to work on the new ride "Luigi's Rollickin' Roadsters"; an autonomous vehicle based ride. For this ride, I was responsible for drafting and updating electrical AutoCAD drawings of the control systems for this ride. I was also responsible for assisting in debugging and testing the control systems. 
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/rwF_1OTcae8?rel=0" frameborder="0" allowfullscreen></iframe>
 
@@ -85,13 +85,13 @@ For more information click [here]({{ site.url }}/projects)
 
 For my most recent co-op I worked for IBM as a Hardware Digital Logic Design Intern for the ASIC memory buffer team. The memory buffer chip is a key component in IBM's Z and P Systems. 
 
-For my main project, I was responsible for designing and implementing an error injection module in hardware on the memory buffer chip. This faculty was written in VHDL and tested using custom Perl scripts in multiple simulation environments. The faculty was capable of injecting a variety of errors. This is an essential unit that will be used during bringup and test for many future generations of memory buffer chips. 
+For my main project, I was responsible for designing and implementing an error injection module in hardware on the memory buffer chip. This faculty was written in VHDL and tested using custom Perl scripts in multiple simulation environments. The faculty was capable of injecting a variety of errors. This is an essential unit that will be used during bring up and test for many future generations of memory buffer chips. 
 
 ![]({{ site.url }}/assets/img/JeopardyWatson.jpg)
 
-I also worked with a small team to develop an application to automate scope probing during bringup and test. I personally developed a new tabular approach to increase the tool felxibility for future projects. 
+I also worked with a small team to develop an application to automate scope probing during bring up and test. I personally developed a new tabular approach to increase the tool flexibility for future projects. 
 
-IBM assigned the hardware interns with a group project to attempt to integrate IBM Sametime messaging with Slack. I personally lead the development of the final solution, assisted in integration across internal teams (Design, Processing, Algorithms) and designed the end user interface. The application was developed in Python and made use of the Slack API. By the end of the summer a fully functional prototpye was able to be developed. 
+IBM assigned the hardware interns with a group project to attempt to integrate IBM Sametime messaging with Slack. I personally lead the development of the final solution, assisted in integration across internal teams (Design, Processing, Algorithms) and designed the end user interface. The application was developed in Python and made use of the Slack API. By the end of the summer a fully functional prototype was able to be developed. 
 
 
 # Hobbies & Fun 
