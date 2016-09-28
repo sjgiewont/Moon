@@ -2,7 +2,7 @@
 layout: post
 title:  "Sitara Based Personal Assistant"
 date:   2016-09-28
-excerpt: "Current project focused on developing custom PCB board powered by TI Sitara ARM Cortext Processor. End goal to create smart assitant with built in Wifi, speakers and touch screen display "
+excerpt: "Current project focused on developing custom PCB board powered by TI Sitara ARM Cortex Processor. End goal to create smart assitant with built in Wifi, speakers and touch screen display "
 project: true
 feature: /assets/img/case_design_1.PNG
 tag:
