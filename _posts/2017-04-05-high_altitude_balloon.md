@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "High Altitude Baloon Instrumentation Platform"
-date:   2017-05-04
+date:   2016-04-28
 excerpt: "Senior Design project with the goal of developing and testing an instrumentaton platform for a high altitude balloon."
 project: true
 feature: /assets/img/photo00347_2017-04-29_16-47-35.jpeg
