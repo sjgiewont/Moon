@@ -22,7 +22,7 @@ I was on the Data Acquisition and Controls team (DAQCS). The DAQCS team was resp
 
 Below is a high level system diagram of the the DAQCS side. Here it can be seen that Raspberry Pi Zero's are used for image/video and data acquisition. All of these nodes are powered via their own battery supply. A MSP430FR5994 is used as a host to manage all communication between the Raspberry Pi's and the Communication subsystem. Another MSP430FR5994 is used to acquire local sensor data and control brushless motor that will be used as a reaction wheel capable of stabilizing the platform. 
 
-![]({{ site.url }}/assets/img/habip_daqcs_system_layout.png)
+![]({{ site.url }}/assets/img/habip_daqcs_system_layout.PNG)
 
 
 My main responsibility for this project was the design, build and development of the DAQCS Host Board. The main processing units powering the DAQCS Host Board are two MSP430FR5994 mixed-signal microcontrollers from Texas Instruments. The MSP430FR5994 uses embedded FRAM technology to allow for ultra-low power operation and robust operation in near space environments. This microcontroller is capable of 16MHz operation and a variety of peripherals including UART, SPI, I2C. Other features include a real time clock module and a 12-bit analog to digital converter. Overall, these capabilities make the MSP430FR5994 microcontroller an ideal choice for the high altitude balloon application. The required functionality is divided between two independent MSP430FR4994 microcontrollers. This is necessary to maintain performance and due to hardware peripheral limitations. The communication between all of the DAQCS sensor nodes and the COMMS host board is constrained to a single MSP430FR5994. This MSP430FR5994 will be referred to as the Host MSP430FR5994.  This includes the communicating between the four DAQCS Sensor Nodes over UART interfaces, COMMS Host board over a SPI interface, and the second MSP430FR5994 over a SPI interface. All of these interfaces are implemented on separate hardware buses to allow for optimal performance. Furthermore, the Host MSP430FR5994 is responsible for controlling the safety cut-down mechanism and reading the reaction wheel battery voltage levels using the AC. The second MSP430FR5994, is responsible for reaction wheel motor control, acquiring local sensor data and storing data local to an SD card. This MSP430FR5994 will be referred to as the Motor MSP430FR5994. The Motor MSP430FR5994 will be able to receive commands and send data back to the Host MSP430FR5994 over a SPI interface. The Host MSP430FR5994 will be a master device and the Motor MSP430FR5994 will be a slave device. Overall, the DACQS Host board capable of executing all necessary functionality and also provides additional GPIO for future development.  A high level diagram of the DAQCS Host controller board can be seen below.
@@ -54,7 +54,7 @@ Apart from handling communications, the Host MSP430FR5994 is responsible for pol
 
 Finally, the Host MSP430FR5994 is responsible for controlling the cutdown mechanism. The cutdown mechanism is a small piece of nichrome wire at the end of a long copper wire cable. The end of the cable will be inside of the balloon envelope and resting along the side with the nichrome wire directly in contact with the balloon material. Shorting approximately one amp of current through this nichrome wire makes the nichrome heat up and pops the balloon. A separate 9V battery will be used as the power supply to heat up the nichrome wire. In order to safely create a short on the board, the circuit must be isolated from the main board circuitry. An optocoupler is used to isolate the control of a power MOSFET. A detailed schematic is seen below. When GPIO from the MSP430 is enabled high, this allows current to flow across the opposing side of the optocoupler. When this happens, the gate of the power MOSFET is pulled to GND (with respect the 9V battery) and therefore allows 1A of current to short across the source and drain of the MOSFET. This will consequently heat up the nichrome wire and pop the balloon. The Host controller will receive a command from the ground to initiate the cutdown sequence. In addition to this, when reaching a specific altitude calculated from the pressure sensors, the Host controller will initiate the cutdown sequence in the case that the ground loses communication with the platform. 
  
-![]({{ site.url }}/assets/img/habip_host_cutdown.png)
+![]({{ site.url }}/assets/img/habip_host_board_cutdown.png)
 
 
 
@@ -64,7 +64,7 @@ The motor MSP430FR5994 has five different sensors integrated on the board. Four 
 
 The main IMU that will be used in the reaction wheel application is mounted on the board and interfaces with the MSP430FR5994 over a SPI interface. This IMU will be polled as fast as possible and used as an input to the reaction wheel controller algorithm. Detailed schematics of all sensors can be seen in Fig. 12 below. 
 
-![]({{ site.url }}/assets/img/habip_host_sensors.png)
+![]({{ site.url }}/assets/img/habip_host_board_sensors.png)
 
 
 ##  GPIO/PWM Motor Controller 
@@ -81,7 +81,7 @@ All of the acquired data from sensors must be logged to an SD card such that the
 
 The 4-layer PCB layout was completed in Eagle PCB software. An image of the layout is captured below.
 
-![]({{ site.url }}/assets/img/habip_host_pcb.png)
+![]({{ site.url }}/assets/img/habip_host_board_pcb.png)
 
 
 ## Bare Board
