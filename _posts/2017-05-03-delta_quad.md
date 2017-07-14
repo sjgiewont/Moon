@@ -4,15 +4,21 @@ title:  "Delta Quad - An Implementation of a Quadruped Using Parallel Jointed Le
 date:   2017-05-03
 excerpt: "Research work investingating the ability to use parallel jointed legs in walking applications."
 project: true
-feature: /assets/img/delta_quad_cad.png
+feature: /assets/img/deltaquad_12_full_12.png
 tag:
-- PCB 
-- MSP430
-- Digital Design
+- Robotics 
+- Delta-Quad
+- BeagleBone Black
+- PCB
+- Machine Learning
+- ANFIS
+- 3D Printing
+- IoT
+- Blynk
 comments: false
 ---
     
-<center>Walking robots are in great demand due to their ability to navigate diverse terrains. Currently, many of the robotic legs in development are constructed using serial or prismatic joints. Such leg architectures have been proven capable but have high power requirements, are limited in overall motion and are slow. For this research work, a parallel jointed leg, Delta-Leg,that is capable of advanced locomotive gaits is developed. The mechanical design and kinematics of a physical working prototype are developed. The use of ANFIS (Adaptive Neural-Fuzzy Inference System) is utilized to describe the inverse kinematics and implement control of the robot. Four Delta-Legs are combined to produce a walking quadruped; Delta-Quad. A simulated model is generated to verify and test the walking capabilities of the Delta-Quad. A physical prototype is constructed to implement a basic omnidirectional walking gait. Both the simulated and physical Delta-Quad models are successful in omnidirectional locomotion. </center>
+Walking robots are in great demand due to their ability to navigate diverse terrains. Currently, many of the robotic legs in development are constructed using serial or prismatic joints. Such leg architectures have been proven capable but have high power requirements, are limited in overall motion and are slow. For this research work, a parallel jointed leg, Delta-Leg,that is capable of advanced locomotive gaits is developed. The mechanical design and kinematics of a physical working prototype are developed. The use of ANFIS (Adaptive Neural-Fuzzy Inference System) is utilized to describe the inverse kinematics and implement control of the robot. Four Delta-Legs are combined to produce a walking quadruped; Delta-Quad. A simulated model is generated to verify and test the walking capabilities of the Delta-Quad. A physical prototype is constructed to implement a basic omnidirectional walking gait. Both the simulated and physical Delta-Quad models are successful in omnidirectional locomotion.
 
 ## Delta Leg
 
