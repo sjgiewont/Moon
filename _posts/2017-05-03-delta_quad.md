@@ -38,9 +38,50 @@ Four of these legs are then combined and attached to a common body/frame. This c
 
 V-REP is a robotics simulation tool used to fully simulate the control, mechanics and overall operaiton of a robot in a simulated physical environment. A full V-REP model of the Delta-Leg and Delta-Quad is created. Using the Python API, each of the Delta-Leg joints are controlled individually. This allows walking gaits to be tested. Below is an image of the Delta-Quad model in V-REP. Further below are timelapse-screenshots of the Delta-Quad walking in V-REP. 
 
-![]({{ site.url }}/assets/img/delta_quad_vrep.PNG   )
+![]({{ site.url }}/assets/img/delta_quad_vrep.PNG)
+
 ![]({{ site.url }}/assets/img/delta_quad_walking_timelapse.png)
 
+## Walking Gait
 
+To test the walking capabilites of the Delta-Quad, a parabolic step trajectory is used as shown in the image below. The parablic step function is capable of stepping in any height, length, direction and speed. 
 
-   
+![]({{ site.url }}/assets/img/step_trajectory.png)
+
+Using the parabolic step, a lateral sequence gait is used to demonstrate walking. This gait, divides a single step into four sequences of all equal timing. Three of the four sequences include the dragging back portion of the step. The fourth sequence includes the stepping forward 
+
+![]({{ site.url }}/assets/img/walking_gait_timing.png)
+
+## The Mechanical Build
+
+The base one of the Delta-Legs is 3D printed with ABS plastic. This allows a rigid yet light weight base to mount three RoBoard RS-1270 digital servo motors.
+
+![]({{ site.url }}/assets/img/servo_base_mechanical.png)
+
+The "tibia" portion of the Delta-Leg is constucted usign a threaded rod and a piece of aluminum U-Channel that swivels around the threaded rod. 
+
+![]({{ site.url }}/assets/img/tibia_assembly.png)
+
+The "knee" assembly includes a custom 3D printed knee joint that freely swivels around the aluminum joint. Together, this creates a pseudo spherical joint that allows the "leg" to move in any degree of motion. 
+
+![]({{ site.url }}/assets/img/knee_assembly.png)
+
+Below is a final mechanical assembly of an entire Delta-Leg. As it can be seen, most of the parts are 3D printed. This allows the leg to be light weight and low cost. 
+
+![]({{ site.url }}/assets/img/delta_leg_assembly_2.png)
+
+Each of the Delta-Legs are attached to a platform. The platform consists of aluminum U-Channel, 3D printed joints and a polycarbonate sheet. As it can be seen in the first image below, when the servos are on, the legs are able to hold up the weight of the entire robot. 
+
+![]({{ site.url }}/assets/img/delta_quad_final.png)
+
+## Delta-Quad System 
+
+The Delta-Quad servo commands are derived using a BeagleBone Black. The BeagleBone Black calculates the inverse kinematics and trajectory planning. The corresponding servo commands are sent to a microcontroller which is capable of driving all 12 PWM signals simultaneously. A custom designed PCB board is used to provide clean power to all 12 servos. The servos and BeagleBone Black can be powered via a wired power supply or a mobile battery. Commands are sent to the Delta-Quad using a mobile app called Blynk. Blynk is a cloud based IoT platform that allows custom commands to be sent to a cloud server. The cloud requests are then received via the BeagleBone Black over a WiFi connection using a Python API. The entire control system is illustrated below. 
+
+![]({{ site.url }}/assets/img/system_diagram_1.png)
+
+## Final Results
+
+The Delta-Quad was able to walk in both simulation and the mechanical prototype. While the walking may not have been perfect, this could eaisly be perfected by applying a control algorithm to allow the robot to maintain better balance while walking. Below is a quick video overviewing the results. 
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/JdKztPnUPYI?rel=0" frameborder="0" allowfullscreen></iframe>
