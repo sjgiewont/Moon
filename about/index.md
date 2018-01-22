@@ -25,7 +25,7 @@ Applications Engineer working with TI's line of low power wireless devices. Focu
 Over the past 5 years I have been very grateful to have the opportunity to intern/co-op with companies across the country! RIT has a 5 year degree due to our co-op program, which requires all engineering students to work for a company for 2 semesters. 
 
 
-![](http://edelman.edelman1.netdna-cdn.com/assets/uploads/2012/07/Feature.png)
+![](https://images.cdn.centreforaviation.com/profiles/12-18/logo.jpeg?1482273476)
 
 ## GE Aviation - Summer 2013 - San Diego, CA
 
