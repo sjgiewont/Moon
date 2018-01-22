@@ -8,9 +8,17 @@ comments: false
     
 ![]({{ site.url }}/assets/img/StevePicSmall.jpg)
 
-My name is Steven Giewont and I am currently a student at Rochester Institute of Technology studying for a BS/MS in electrical engineering. Expecting graduation May 2017!
+My name is Steven Giewont and I am recent graduate student from Rochester Institute of Technology with a BS/MS degree in electrical engineering. 
 
 I'm very passionate about innovation, technology and design. I love a challenge and applying my knowledge of engineering and science to innovate new ideas.
+
+# Experience
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/TexasInstruments-Logo.svg/2000px-TexasInstruments-Logo.svg.png)
+
+## Texas Instruments - San Diego, CA
+
+Applications Engineer working with TI's line of low power wireless devices. Focusing on ZigBee and TI's Sub 1Ghz protocols, have been developing applications that integrate with and enhance the TI's Sensor To Cloud framework. 
 
 # Co-op Experience
 
