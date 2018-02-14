@@ -91,3 +91,9 @@ The Delta-Quad servo commands are derived using a BeagleBone Black. The BeagleBo
 The Delta-Quad was able to walk in both simulation and the mechanical prototype. While the walking may not have been perfect, this could eaisly be perfected by applying a control algorithm to allow the robot to maintain better balance while walking. Below is a quick video overviewing the results. 
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/JdKztPnUPYI?rel=0" frameborder="0" allowfullscreen></iframe>
+
+## Publication 
+
+Published a conference paper for the Systems of Systems Engineering Conference in 2017. Was then published by IEEE on uly, 31, 2017. 
+
+[Delta-Quad: An omnidirectional quadruped implementation using parallel jointed leg architecture](http://ieeexplore.ieee.org/document/7994964/)
