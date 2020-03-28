@@ -8,9 +8,11 @@ comments: false
     
 ![]({{ site.url }}/assets/img/StevePicSmall.jpg)
 
+<center> 
 My name is Steven Giewont and I am recent graduate student from Rochester Institute of Technology with a BS/MS degree in electrical engineering. 
 
 I'm very passionate about innovation, technology and design. I love a challenge and applying my knowledge of engineering and science to innovate new ideas.
+<center/>
 
 # Experience
 
@@ -111,7 +113,7 @@ Skiing has been a passion of my since I've been a kid. I grew up skiing the Cats
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/Dswt2NplTns?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
-I also enjoy mountain biking! Below is a quick video from biking in LA. 
+I also enjoy mountain biking! Below is a quick video from biking in Los Angeles. 
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/ckoiR0dbvf4?rel=0" frameborder="0" allowfullscreen></iframe>
 
