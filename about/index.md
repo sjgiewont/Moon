@@ -12,7 +12,7 @@ comments: false
 My name is Steven Giewont and I am recent graduate student from Rochester Institute of Technology with a BS/MS degree in electrical engineering. 
 
 I'm very passionate about innovation, technology and design. I love a challenge and applying my knowledge of engineering and science to innovate new ideas.
-<center/>
+</center>
 
 # Experience
 
